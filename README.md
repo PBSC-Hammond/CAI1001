@@ -5,9 +5,9 @@
 
 **Prerequisites:** NA
 
-**CLO’s:**
+### **CLO’s:**
 
-**Course competency 1:** 
+#### **Course competency 1:** 
 
 Student will examine the field of AI and machine learning by: 
  * A) Describing digital literacy, practical functional digital skill, digital collaboration, curating information, and data sources – internet of things 
@@ -16,14 +16,14 @@ Student will examine the field of AI and machine learning by:
  * D) Identifying supervised vs. Unsupervised learning, neural networks and discovering their application; 
  * E) Researching enterprise applications of AI and implementation readiness such as computing scalability, technical tradeoffs, and data pipelines
  
- **Course competency 2:**
+ #### **Course competency 2:**
    
 The student will demonstrate an understanding of ethical and legal considerations in AI by: 
 
  * A) defining key vocabulary terms related to computing ethics such as algorithmic privacy and algorithmic fairness; 
  * B) identifying and explaining issues in computing ethics at the levels of system development, implementation, and administration
  
- **Course competency 3:**
+ #### **Course competency 3:**
  
 The student will be able explore data sets by: 
 
