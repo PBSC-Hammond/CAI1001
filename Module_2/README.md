@@ -3,5 +3,6 @@
 
 * **Foundations of AI**
   * https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?resume=false&u=98320770
+  * Student will complete all course content at link above and earn a **LinkedIn certificate**.
  
 
