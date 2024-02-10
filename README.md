@@ -4,6 +4,7 @@ ARTIFICIAL INTELLIGENCE (AI) THINKING
 **Course Description:** A survey of artificial intelligence (AI) where students explore different technologies utilizing concepts and skills widely accepted for ai and digital competency. Classification algorithms, supervised vs. Unsupervised learning, data preparation, and training/using learning models for predictions are presented. 
 
 **Prerequisites:** NA
+
 **CLO’s:**
 
 **Course competency 1:** 
@@ -29,7 +30,7 @@ The student will be able explore data sets by:
  * B) identifying data sources and their production; 
  * C) using and manipulating data sets to train learning models
 
-
+##Course Modules
 
 ### Module 1: Digital Literacy 
 *(CLO 1A Measured)*
