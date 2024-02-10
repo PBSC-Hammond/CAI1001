@@ -42,7 +42,9 @@ The student will be able explore data sets by:
 ## Course Modules
 
 ### Module 1: Digital Literacy 
+
 *(PLO 1 Measured)*
+
 *(CLO 1A Measured)*
 
 [Module 1](./Module_1/README.md) 
