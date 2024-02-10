@@ -1,2 +1,5 @@
+# **Module 4: 4.	AI in the Enterprise** 
+***(CLO 1C Measured)***
 
-https://coe.gsa.gov/coe/ai-guide-for-government/understanding-managing-ai-lifecycle/ 
+* **AI Guide for Government**
+  * https://coe.gsa.gov/coe/ai-guide-for-government/understanding-managing-ai-lifecycle/ 
