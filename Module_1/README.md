@@ -1,4 +1,4 @@
-# **Module 1: Digital Literacy
+# **Module 1: Digital Literacy**
 
 ## WHAT IS DIGITAL LITERACY AND WHY IS IT IMPORTANT? *(Review link contents)*
 * https://potomac.edu/what-is-digital-literacy/
