@@ -1,6 +1,35 @@
 # CAI1001
 ARTIFICIAL INTELLIGENCE (AI) THINKING
 
+**Course Description:** A survey of artificial intelligence (AI) where students explore different technologies utilizing concepts and skills widely accepted for ai and digital competency. Classification algorithms, supervised vs. Unsupervised learning, data preparation, and training/using learning models for predictions are presented. 
+
+**Prerequisites:** NA
+**CLO’s:**
+
+**Course competency 1:** 
+
+Student will examine the field of ai and machine learning by: 
+ * A) describing digital literacy, practical functional digital skill, digital collaboration, curating information, and data sources – internet of things 
+ * B) describing the history of ai 
+ * C) describing and using the ai project cycle; 
+ * D) identifying supervised vs. Unsupervised learning, neural networks and discovering their application; 
+ * E) researching enterprise applications of ai and implementation readiness such as computing scalability, technical tradeoffs, and data pipelines
+ **Course competency 2:**
+   
+The student will demonstrate an understanding of ethical and legal considerations in ai by: 
+
+ * A) defining key vocabulary terms related to computing ethics such as algorithmic privacy and algorithmic fairness; 
+ * B) identifying and explaining issues in computing ethics at the levels of system development, implementation, and administration
+ 
+ **Course competency 3:**
+ 
+The student will be able explore data sets by: 
+
+ * A) defining and describing data, data acquisition, data visualization, and data transformation; 
+ * B) identifying data sources and their production; 
+ * C) using and manipulating data sets to train learning models
+
+
 
 ### Module 1: Digital Literacy 
 *(CLO 1A Measured)*
