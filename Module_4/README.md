@@ -1,4 +1,4 @@
-# **Module 4: 4.	AI in the Enterprise** 
+# **Module 4: AI in the Enterprise** 
 ***(CLO 1C Measured)***
 
 * **AI Guide for Government**
