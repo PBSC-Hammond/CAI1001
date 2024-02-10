@@ -72,10 +72,7 @@ The student will be able explore data sets by:
 [Module 5](./Module_5/README.md) is about.
 
 ### Module 6: Data Collection and Enhancement 
-***(CLO 3 Measured) project using CodeFree Programming in Orange*** The student will be able explore data sets by: 
-A) defining and describing data, data acquisition, data visualization, and data transformation; 
-B) identifying data sources and their production; 
-C) using and manipulating data sets to train learning models
+***(CLO 3 Measured) project using CodeFree Programming in Orange*** The student will be able explore data sets by: A) defining and describing data, data acquisition, data visualization, and data transformation; B) identifying data sources and their production; C) using and manipulating data sets to train learning models
 
 
 [Module 6](./Module_6/README.md) is about .
@@ -96,7 +93,6 @@ C) using and manipulating data sets to train learning models
 
 ### Module 11: Social, Moral, And Philosophical Implications of AI 
 ***(CLO 2 Measured) AI ethics and legal issues today paper*** The student will demonstrate an understanding of ethical and legal considerations in ai by:
-
 A) defining key vocabulary terms related to computing ethics such as algorithmic privacy and algorithmic fairness;
 B) identifying and explaining issues in computing ethics at the levels of system development, implementation, and administration
 
