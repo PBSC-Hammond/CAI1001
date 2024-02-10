@@ -1,4 +1,4 @@
-# **Module 2: 2.	An Introduction to AI and Its History** 
+# **Module 2: An Introduction to AI and Its History** 
 ***(CLO 1B Measured)***
 
 * **Foundations of AI**
