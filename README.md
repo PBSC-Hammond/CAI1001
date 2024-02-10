@@ -95,8 +95,9 @@ C) using and manipulating data sets to train learning models
 [Module 10](./Module_10/README.md) is about .
 
 ### Module 11: Social, Moral, And Philosophical Implications of AI 
-***(CLO 2 Measured) AI ethics and legal issues today paper*** The student will demonstrate an understanding of ethical and legal considerations in ai by: 
-A) defining key vocabulary terms related to computing ethics such as algorithmic privacy and algorithmic fairness; 
+***(CLO 2 Measured) AI ethics and legal issues today paper*** The student will demonstrate an understanding of ethical and legal considerations in ai by:
+
+A) defining key vocabulary terms related to computing ethics such as algorithmic privacy and algorithmic fairness;
 B) identifying and explaining issues in computing ethics at the levels of system development, implementation, and administration
 
 
