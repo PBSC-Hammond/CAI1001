@@ -1,5 +1,5 @@
 # CAI1001
-ARTIFICIAL INTELLIGENCE (AI) THINKING
+**ARTIFICIAL INTELLIGENCE (AI) THINKING**
 
 **Course Description:** A survey of artificial intelligence (AI) where students explore different technologies utilizing concepts and skills widely accepted for AI and digital competency. Classification algorithms, supervised vs. Unsupervised learning, data preparation, and training/using learning models for predictions are presented. 
 
