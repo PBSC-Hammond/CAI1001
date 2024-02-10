@@ -18,6 +18,6 @@
  * Getting Started with Microsoft 365 (55m)
  * https://www.linkedin.com/learning/paths/digital-literacy-and-productivity-learning-pathway?u=98320770 
  * Student will complete all 3 courses and associated content at link above and earn a **LinkedIn certificate**.
- * 
+   
 
 
