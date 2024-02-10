@@ -10,7 +10,8 @@ ARTIFICIAL INTELLIGENCE (AI) THINKING
  * Certificate at end of Learning Path above
 
 ### Module 2: An Introduction to AI and Its History 
-*(CLO 1B Measured)*
+***(CLO 1B Measured)***
+
 [Module 2](./Module_2/README.md) is about 
 
 
@@ -19,15 +20,18 @@ ARTIFICIAL INTELLIGENCE (AI) THINKING
  
 
 ### Module 4: AI in the Enterprise 
-*(CLO 1C Measured)*
+***(CLO 1C Measured)***
+
 [Module 4](./Module_4/README.md) is about .
 
 ### Module 5: Supervised Learning  
-*(CLO 1D Measured)*
+***(CLO 1D Measured)***
+
 [Module 5](./Module_5/README.md) is about.
 
 ### Module 6: Data Collection and Enhancement 
-*(CLO 3 Measured) project using CodeFree Programming in Orange*
+***(CLO 3 Measured) project using CodeFree Programming in Orange***
+
 [Module 6](./Module_6/README.md) is about .
 
 ### Module 7: Deep Learning 
@@ -40,11 +44,13 @@ ARTIFICIAL INTELLIGENCE (AI) THINKING
 [Module 9](./Module_9/README.md) is about .
 
 ### Module 10: Latest Developments in AI 
-*(CLO 1E Measured)*
+***(CLO 1E Measured)***
+
 [Module 10](./Module_10/README.md) is about .
 
 ### Module 11: Social, Moral, And Philosophical Implications of AI 
-*(CLO 2 Measured) AI ethics and legal issues today paper*
+***(CLO 2 Measured) AI ethics and legal issues today paper***
+
 [Module 11](./Module_11/README.md) is about .
 
 
