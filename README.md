@@ -4,6 +4,7 @@ ARTIFICIAL INTELLIGENCE (AI) THINKING
 
 ### Module 1: Digital Literacy 
 *(CLO 1A Measured)*
+
 [Module 1](./Module_1/README.md) is an Introduction to 
  * Digital Literacy and Productivity Learning Pathway
  * https://www.linkedin.com/learning/paths/digital-literacy-and-productivity-learning-pathway?u=98320770
