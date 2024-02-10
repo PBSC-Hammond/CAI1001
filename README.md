@@ -30,7 +30,7 @@ The student will be able explore data sets by:
  * B) Identifying data sources and their production; 
  * C) Using and manipulating data sets to train learning models
 
-##Course Modules
+## Course Modules
 
 ### Module 1: Digital Literacy 
 *(CLO 1A Measured)*
