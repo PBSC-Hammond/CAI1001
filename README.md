@@ -30,6 +30,15 @@ The student will be able explore data sets by:
  * B) Identifying data sources and their production; 
  * C) Using and manipulating data sets to train learning models
 
+#### PLO’s associated with this course:
+
+ **Applied Artificial Intelligence (AS)**
+ 
+* **PLO-1:** Explain attributes of the field of AI including:
+   * A) The AI Project lifecycle,
+   * B) ethical and legal considerations in ai,
+   * C) career opportunities in the field of AI and recognize the value of emotional intelligence, effective communication, and the ability to embrace change in the field of AI
+
 ## Course Modules
 
 ### Module 1: Digital Literacy 
