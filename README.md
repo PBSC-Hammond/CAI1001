@@ -15,6 +15,7 @@ Student will examine the field of AI and machine learning by:
  * C) Describing and using the AI project cycle; 
  * D) Identifying supervised vs. Unsupervised learning, neural networks and discovering their application; 
  * E) Researching enterprise applications of AI and implementation readiness such as computing scalability, technical tradeoffs, and data pipelines
+ 
  **Course competency 2:**
    
 The student will demonstrate an understanding of ethical and legal considerations in AI by: 
