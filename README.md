@@ -35,7 +35,9 @@ The student will be able explore data sets by:
 ### Module 1: Digital Literacy 
 *(CLO 1A Measured)*
 
-[Module 1](./Module_1/README.md) is an Introduction to 
+[Module 1](./Module_1/README.md) 
+* What is Digital Literacy?
+* Why is Digital Literacy Important?
 
 ### Module 2: An Introduction to AI and Its History 
 ***(CLO 1B Measured)***
