@@ -1,4 +1,4 @@
-# **Module 5: Supervised Learning  **
+# **Module 5: Supervised Learning**
 ***(CLO 1D Measured)***
 
 ## XX *(Review link contents)*
