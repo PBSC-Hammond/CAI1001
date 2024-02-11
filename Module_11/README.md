@@ -1,5 +1,5 @@
 # **Module 11: Social, Moral, And Philosophical Implications of AI**
-***(CLO 2 Measured)***
+***(CLO 2 Measured)*** AI ethics and legal issues today paper
 
 ## XX *(Review link contents)*
 * ccc
