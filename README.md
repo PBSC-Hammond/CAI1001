@@ -39,7 +39,9 @@ The student will be able explore data sets by:
    * B) ethical and legal considerations in ai,
    * C) career opportunities in the field of AI and recognize the value of emotional intelligence, effective communication, and the ability to embrace change in the field of AI
 
-## Course Modules
+
+
+# Course Modules
 
 ## Module 1: Digital Literacy 
 
