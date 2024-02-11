@@ -30,6 +30,7 @@ iv.	Blogs:
 2.	Machine Learning Mastery: https://machinelearningmastery.com/blog/
 3.	The BAIR Blog: https://bair.berkeley.edu/blog/
 4.	OpenAI Blog: https://openai.com/blog/
+   
 v.	Misc:
 1.	Machine Learning Roadmap: video | mind map
 2.	Collect questions, ideas, etc., and post (some of) them in the appropriate discussion board forums
