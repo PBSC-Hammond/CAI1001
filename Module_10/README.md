@@ -11,10 +11,11 @@
 ## xx *(Complete Pathway: Earn Certificate)*
  * zzz
    
-a.	Check out these suggested resources (*):
+**Check out these suggested resources (*):**
 
 i.	Sites:
 1.	Papers with Code: https://paperswithcode.com/
+   
 ii.	Newsletters:
 1.	The Batch: https://read.deeplearning.ai/the-batch/
 2.	Decision Intelligence: https://decision.substack.com/
@@ -25,6 +26,7 @@ iii.	YouTube channels:
 4.	Henry AI Labs: https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw
 5.	DeepMind: https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A
 6.	MITCSAIL: https://www.youtube.com/user/MITCSAIL
+   
 iv.	Blogs:
 1.	Google AI Blog: https://ai.googleblog.com/
 2.	Machine Learning Mastery: https://machinelearningmastery.com/blog/
