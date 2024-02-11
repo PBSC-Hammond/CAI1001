@@ -43,8 +43,6 @@ The student will be able explore data sets by:
 
 ### Module 1: Digital Literacy 
 
-***(PLO 1 Measured)*** Explain attributes of the field of AI including: A) The AI Project lifecycle, B) ethical and legal considerations in ai, C) career opportunities in the field of AI and recognize the value of emotional intelligence, effective communication, and the ability to embrace change in the field of AI
-
 ***(CLO 1A Measured)*** Describing digital literacy, practical functional digital skill, digital collaboration, curating information, and data sources – internet of things
 
 [Module 1](./Module_1/README.md) 
@@ -53,6 +51,8 @@ The student will be able explore data sets by:
 
 ### Module 2: An Introduction to AI and Its History 
 ***(CLO 1B Measured)*** Describing the history of AI 
+
+***(PLO 1 Measured)*** Explain attributes of the field of AI including: A) The AI Project lifecycle, B) ethical and legal considerations in ai, C) career opportunities in the field of AI and recognize the value of emotional intelligence, effective communication, and the ability to embrace change in the field of AI
 
 [Module 2](./Module_2/README.md) is about 
 
