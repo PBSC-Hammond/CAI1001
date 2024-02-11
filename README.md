@@ -100,3 +100,4 @@ B) identifying and explaining issues in computing ethics at the levels of system
 [Module 11](./Module_11/README.md) is about .
 
 
+***Intel Content Source: https://www.intel.com/content/www/us/en/developer/learn/course-artificial-intelligence.html***
