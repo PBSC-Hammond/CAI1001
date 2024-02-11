@@ -1,5 +1,5 @@
 # **Module 2: An Introduction to AI and Its History** 
-***(CLO 1B Measured)***
+***(CLO 1B Measured)***& ***(PLO 1 Measured)***
 
 * **Foundations of AI**  ***(CLO 1B Measured)***
   * https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?resume=false&u=98320770
