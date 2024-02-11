@@ -4,7 +4,7 @@
 * **AI Guide for Government**    
 * **Understanding and managing the AI lifecycle**  
   * https://coe.gsa.gov/coe/ai-guide-for-government/understanding-managing-ai-lifecycle/
-  * Read the article above and discuss the concept of "Where we are as a society in the "AI lifecycle" has your perception of AI changed since the course started?
+  * Read the article above, Reflect on the Articles from Module 2 *(AI life cycle and hype cycle)* and discuss the concept of "Where we are as a society in the "AI lifecycle" has your perception of AI changed since the course started?
  
     
 * **TRUSTWORTHY AND RESPONSIBLE AI**
