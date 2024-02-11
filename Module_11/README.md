@@ -11,12 +11,12 @@
 ## xx *(Complete Pathway: Earn Certificate)*
  * zzz
 
-a.	**Responsible and Trustworthy AI Implementation** https://coe.gsa.gov/coe/ai-guide-for-government/responsible-ai-implementation/index.html 
-b.	**Benefits and risks of AI (Future of Life Institute)**  Tegmark, Max. “Benefits & Risks of Artificial Intelligence.” Future of Life Institute, https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/?cn-reloaded=1
+1.	**Responsible and Trustworthy AI Implementation** https://coe.gsa.gov/coe/ai-guide-for-government/responsible-ai-implementation/index.html 
+1.	**Benefits and risks of AI (Future of Life Institute)**  Tegmark, Max. “Benefits & Risks of Artificial Intelligence.” Future of Life Institute, https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/?cn-reloaded=1
 
-c.	**The Future of Artificial Intelligence and Cybernetics (MIT Technology Review)** Warwick, Kevin, and C. “The Future of Artificial Intelligence and Cybernetics.” MIT Technology Review, MIT Technology Review, 10 Nov. 2016, https://www.technologyreview.com/s/602830/the-future-of-artificial-intelligence-and-cybernetics/.. 
+1.	**The Future of Artificial Intelligence and Cybernetics (MIT Technology Review)** Warwick, Kevin, and C. “The Future of Artificial Intelligence and Cybernetics.” MIT Technology Review, MIT Technology Review, 10 Nov. 2016, https://www.technologyreview.com/s/602830/the-future-of-artificial-intelligence-and-cybernetics/.. 
 
-d.	**Top 9 ethical issues in artificial intelligence (World Economic Forum)** Links to an external site. Bossmann, Julia. “Top 9 Ethical Issues in "Artificial Intelligence.” World Economic Forum, 21 Oct. 2016, https://www.weforum.org/agenda/2016/10/top-10-ethical-issues-in-artificial-intelligence/Links to an external site.. 
-e.	**The Ethics of Artificial Intelligence** Links to an external site.
+1.	**Top 9 ethical issues in artificial intelligence (World Economic Forum)** Links to an external site. Bossmann, Julia. “Top 9 Ethical Issues in "Artificial Intelligence.” World Economic Forum, 21 Oct. 2016, https://www.weforum.org/agenda/2016/10/top-10-ethical-issues-in-artificial-intelligence/Links to an external site.. 
+1.	**The Ethics of Artificial Intelligence** Links to an external site.
 Nick Bostrom, Nick and Yudkowsky,  Eliezer .  "The Ethics of Artificial Intelligence." MIRI. https://intelligence.org/files/EthicsofAI.pdf Links to an external site.. 
 
