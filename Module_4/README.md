@@ -8,5 +8,8 @@
  
     
 * **TRUSTWORTHY AND RESPONSIBLE AI**
+* * **"Trustworthy AI"** and **Fairness with Mitigation of Harmful Bias**
   * https://www.nist.gov/trustworthy-and-responsible-ai
-
+  * https://www.nist.gov/artificial-intelligence 
+  * Read the content at the links above related to **"Trustworthy AI"** and **Fairness with Mitigation of Harmful Bias**
+  * discuss the concepts and the importance of groups like "NSF Institute for Trustworthy AI in Law & Society (TRAILS)" and others moving forward.
