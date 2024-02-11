@@ -5,4 +5,8 @@
 * **Understanding and managing the AI lifecycle**  
   * https://coe.gsa.gov/coe/ai-guide-for-government/understanding-managing-ai-lifecycle/
   * Read the article avove and discuss the concept of "Where we are as a society in the "AI lifecycle" and why.
+ 
+    
+* **TRUSTWORTHY AND RESPONSIBLE AI**
+  * https://www.nist.gov/trustworthy-and-responsible-ai
 
