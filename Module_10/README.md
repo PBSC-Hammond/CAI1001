@@ -13,13 +13,14 @@
    
 **Check out these suggested resources (*):**
 
-i.	Sites:
+**Sites:**
 1.	Papers with Code: https://paperswithcode.com/
    
-ii.	Newsletters:
+**Newsletters:**
 1.	The Batch: https://read.deeplearning.ai/the-batch/
 2.	Decision Intelligence: https://decision.substack.com/
-iii.	YouTube channels:
+
+**YouTube channels:**
 1.	Two Minute Papers: https://www.youtube.com/user/keeroyz
 2.	Luis Serrano: https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ
 3.	OpenAI: https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A
@@ -27,7 +28,7 @@ iii.	YouTube channels:
 5.	DeepMind: https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A
 6.	MITCSAIL: https://www.youtube.com/user/MITCSAIL
    
-iv.	Blogs:
+**Blogs:**
 1.	Google AI Blog: https://ai.googleblog.com/
 2.	Machine Learning Mastery: https://machinelearningmastery.com/blog/
 3.	The BAIR Blog: https://bair.berkeley.edu/blog/
