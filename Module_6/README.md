@@ -10,7 +10,7 @@
 * project using CodeFree Programming in Orange
 
 ## Weka Data-Mining *(Complete Pathway: Earn Certificate)*
- * [zzz](https://sourceforge.net/projects/weka/)https://sourceforge.net/projects/weka/
+ * (https://sourceforge.net/projects/weka/)https://sourceforge.net/projects/weka/
    
 
 
