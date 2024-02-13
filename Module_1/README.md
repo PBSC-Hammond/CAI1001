@@ -1,4 +1,9 @@
 # **Module 1: Digital Literacy**
+***(CLO 1A measured)***
+Student will examine the field of ai and machine learning by: 
+A) describing digital literacy, practical functional digital skill, digital collaboration, curating information, and data sources – internet of things 
+
+
 
 ## WHAT IS DIGITAL LITERACY AND WHY IS IT IMPORTANT? *(Review link contents)*
 * https://potomac.edu/what-is-digital-literacy/
