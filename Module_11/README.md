@@ -1,5 +1,10 @@
 # **Module 11: Social, Moral, And Philosophical Implications of AI**
-***(CLO 2 Measured)*** AI ethics and legal issues today paper
+***(CLO 2 Measured)*** **AI ethics and legal issues today paper**
+The student will demonstrate an understanding of ethical and legal considerations in ai by: 
+- A) defining key vocabulary terms related to computing ethics such as algorithmic privacy and algorithmic fairness; 
+- B) identifying and explaining issues in computing ethics at the levels of system development, implementation, and administration
+
+
 
 ## XX *(Review link contents)*
 * ccc
