@@ -1,5 +1,6 @@
 # **Module 1: Digital Literacy**
 ***(CLO 1A measured)***
+
 Student will examine the field of ai and machine learning by: 
 - A) describing digital literacy, practical functional digital skill, digital collaboration, curating information, and data sources – internet of things 
 
