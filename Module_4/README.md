@@ -1,5 +1,13 @@
 # **Module 4: AI in the Enterprise** 
-***(CLO 1C Measured)*** & ***(PLO 1 Measured)***
+***(CLO 1C Measured)*** 
+Student will examine the field of ai and machine learning by: 
+- C) describing and using the ai project cycle;
+
+***(PLO 1 Measured)***
+Explain attributes of the field of AI including:
+- A) The AI Project lifecycle,
+- B) ethical and legal considerations in ai,
+- C) career opportunities in the field of AI and recognize the value of emotional intelligence, effective communication, and the ability to embrace change in the field of AI
 
 * **AI Guide for Government**    
 * **Understanding and managing the AI lifecycle**  
