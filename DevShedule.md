@@ -28,6 +28,7 @@ video walkthrough for cert upload
  * Overview  NEEDS WORK
  * Module video needed (last step)
  * Lectures:  NEEDS Work
+    * video for AI501
  * Tips tricks and insights NEEDS WORK
  * Reflection all set
  * Quiz completed (COULD USE ADDITIONAL QUESTIONS)
