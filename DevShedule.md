@@ -5,6 +5,7 @@
 ### Course Unknowns:
 #### Group work?
  * link already in module 1
+ * Which tasks / modules?
 
 
 ### Module 1 Digital Literacy 
