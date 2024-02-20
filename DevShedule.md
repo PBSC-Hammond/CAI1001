@@ -1,10 +1,22 @@
 ### Welcome Video (last step) 
 #### Completion date: May 1 2024
+ * 
+
+### Course Unknowns:
+#### Group work?
+ * link already in module 1
+
 
 ### Module 1 Digital Literacy 
  #### Completion date: 
  * lecture video needed (last step)
- * 
+ * Overview (video missing)
+ * Quiz completed
+ * Lectures:  NEEDS Work
+ * Course resources NEEDS Work
+ * Discussion all set
+   * Rubric all set
+ * Reflection all set 
 
 ### Module 2 : An Introduction to AI and Its History
 #### Completion date: 
