@@ -3,6 +3,8 @@
  * 
 
 ### Course Unknowns:
+video walkthrough for cert upload
+
 #### Group work?
  * link already in module 1
  * Which tasks / modules?
