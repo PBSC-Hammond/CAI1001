@@ -1,8 +1,8 @@
 # **Module 2: An Introduction to AI and Its History** 
 ***(CLO 1B Measured)*** 
 
-Student will examine the field of ai and machine learning by: 
-- B) describing the history of ai  
+Student will examine the field of AI and machine learning by: 
+- B) describing the history of AI  
 
 * **Foundations of AI**  
   * https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?resume=false&u=98320770
