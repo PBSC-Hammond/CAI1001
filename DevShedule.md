@@ -1,4 +1,5 @@
-### Welcome Video (last step)
+### Welcome Video (last step) 
+#### Completion date: May 1 2024
 
 ### Module 1 Digital Literacy 
  #### Completion date: 
