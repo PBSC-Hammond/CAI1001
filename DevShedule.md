@@ -30,6 +30,7 @@ video walkthrough for cert upload
  * Lectures:  NEEDS Work
  * Tips tricks and insights NEEDS WORK
  * Reflection all set
+ * Quiz completed (COULD USE ADDITIONAL QUESTIONS)
  * Cert upload assignment NEEDS cert video
 
 ### Module 3: AI in Industry
