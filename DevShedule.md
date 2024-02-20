@@ -20,7 +20,8 @@ video walkthrough for cert upload
  * Course resources NEEDS Work
  * Discussion all set
    * Rubric all set
- * Reflection all set 
+ * Reflection all set
+ * Cert upload assignment NEEDS cert video
 
 ### Module 2 : An Introduction to AI and Its History
 #### Completion date: 2/25/2024
@@ -28,7 +29,8 @@ video walkthrough for cert upload
  * Module video needed (last step)
  * Lectures:  NEEDS Work
  * Tips tricks and insights NEEDS WORK
- * Reflection all set 
+ * Reflection all set
+ * Cert upload assignment NEEDS cert video
 
 ### Module 3: AI in Industry
 #### Completion date:  2/25/2024
