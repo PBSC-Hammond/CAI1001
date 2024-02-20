@@ -1,3 +1,15 @@
+## Short term ToDo's
+Module 1 Welcome video
+Module 1: lecture etc
+Module 1 Tips Tricks and Insights
+Module 2 Welcome video
+Module 2: lecture etc
+Module 2 Tips Tricks and Insights
+Module 3 Welcome video
+Module 3: lecture etc
+Module 3 Tips Tricks and Insights
+
+
 ### Welcome Video (last step) 
 #### Completion date: May 1 2024
  * 
@@ -17,7 +29,7 @@ video walkthrough for cert upload
  * Quiz completed
  * Lectures:  NEEDS Work
  * Tips tricks and insights NEEDS WORK
- * Course resources NEEDS Work
+ * Course resources all set
  * Discussion all set
    * Rubric all set
  * Reflection all set
