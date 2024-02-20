@@ -1,6 +1,7 @@
 ### Welcome Video (last step)
 
-### Module 1 Digital Literacy
+### Module 1 Digital Literacy 
+ ## Completion date: 
  * lecture video needed (last step)
  * 
 
