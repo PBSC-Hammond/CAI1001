@@ -20,6 +20,7 @@
 ### Course Unknowns:
 * video walkthrough for cert upload
 * Additional module specific discussion topics added to discussions
+* New images for Home page
 
 
 ### Module 1 Digital Literacy 
