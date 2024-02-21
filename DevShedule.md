@@ -24,16 +24,16 @@ video walkthrough for cert upload
 
 ### Module 1 Digital Literacy 
  #### Completion date: 2/25/2024
- * Module video needed (last step)
- * Overview (video missing)
- * Quiz completed
- * Lectures:  NEEDS Work
- * Tips tricks and insights NEEDS WORK
+ * Module video needed ***(last step)***
+ * Overview **(video missing)**
+ * Quiz **completed**
+ * Lectures:  **NEEDS Work**
+ * Tips tricks and insights **NEEDS WORK**
  * Course resources all set
  * Discussion all set
-   * Rubric all set
- * Reflection all set
- * Cert upload assignment NEEDS cert video
+   * Rubric **all set**
+ * Reflection **all set**
+ * Cert upload assignment **NEEDS cert video**
 
 ### Module 2 : An Introduction to AI and Its History
 #### Completion date: 2/25/2024
