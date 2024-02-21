@@ -41,7 +41,7 @@
 ### Module 2 : An Introduction to AI and Its History
 #### Completion date: 2/25/2024
  * Overview  **(video missing)**
- * Module video needed ***(last step)**
+ * Module video needed ***(last step)***
  * ~~Module resources~~ **all set***
  * Lectures:  **NEEDS Work**
     * **video for AI501**
