@@ -1,3 +1,4 @@
+\usepackage{ulem}
 ## Short term ToDo's
 Module 1 Welcome video
 Module 1: lecture etc
