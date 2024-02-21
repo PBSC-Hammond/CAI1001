@@ -1,4 +1,4 @@
-\usepackage{ulem}
+
 ## Short term ToDo's
 Module 1 Welcome video
 Module 1: lecture etc
@@ -31,9 +31,9 @@ video walkthrough for cert upload
  * Lectures:  **NEEDS Work**
  * Tips tricks and insights **NEEDS WORK**
  * Course resources all set
- * Discussion all set
+~~ * Discussion all set
    * Rubric **all set**
- * Reflection **all set**
+ * Reflection **all set**~~
  * Cert upload assignment **NEEDS cert video**
 
 ### Module 2 : An Introduction to AI and Its History
