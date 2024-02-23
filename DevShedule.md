@@ -1,6 +1,6 @@
 ## Short term ToDo's
 * ~~All Cert upload assignments **NEED cert video** ***(complete by 2/23)***~~
-* Module 1 Welcome video ***(complete by 2/24)***
+* ~~Module 1 Welcome video ***(complete by 2/24)***~~
 * ~~Module 1: lecture etc  ***(complete by 2/23)***~~
 * ~~Module 1: Time Map  ***(complete by 2/23)***~~
 * ~~Module 1 Tips Tricks and Insights  ***include specific time estimates for module tasks*** ***include date of last update***~~
