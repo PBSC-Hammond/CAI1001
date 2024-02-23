@@ -9,10 +9,10 @@
 * ~~Module 2 Tips Tricks and Insights  ***include specific time estimates for module tasks***  **include date of last update***~~
 * Module 3 Welcome video ***(complete by 2/24)***
 * Module 3: lecture etc  ***(complete by 2/23)***
-* Module 3 Tips Tricks and Insights ***include specific time estimates for module tasks***  **include date of last update***
+* ~~Module 3 Tips Tricks and Insights ***include specific time estimates for module tasks***  **include date of last update***~~
 * Module 4 Welcome video  ***(complete by 2/24)***
 * Module 4: lecture etc  ***(complete by 2/23)***
-* Module 4 Tips Tricks and Insights ***include specific time estimates for module tasks***  **include date of last update***
+* ~~Module 4 Tips Tricks and Insights ***include specific time estimates for module tasks***  **include date of last update***~~
 
 ### Welcome Video (last step) 
 #### Completion date: May 1 2024
