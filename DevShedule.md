@@ -60,8 +60,8 @@
  *  Module 3: Time Map  
  *  Lectures:  **NEEDS Work**
  *  ~~Module resources~~ **all set**
- *  Tips tricks and insights **NEEDS WORK**
- * Discussion ***suggest additional discussion topics***
+ *  ~~Tips tricks and insights **NEEDS WORK**~~
+ * ~~Discussion~~ ***suggest additional discussion topics***
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
 
@@ -72,7 +72,7 @@
  *  Module video needed ***(last step)***
  *  Lectures:  **NEEDS Work**
  *  ~~Module resources~~ **all set**
- *  Tips tricks and insights **NEEDS WORK**
+ *  ~~Tips tricks and insights **NEEDS WORK**~~
  * ~~Reflection~~ **all set** 
 
 ### Module 5: Supervised Learning
