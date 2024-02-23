@@ -4,9 +4,9 @@
 * ~~Module 1: lecture etc  ***(complete by 2/23)***~~
 * ~~Module 1: Time Map  ***(complete by 2/23)***~~
 * ~~Module 1 Tips Tricks and Insights  ***include specific time estimates for module tasks*** ***include date of last update***~~
-* Module 2 Welcome video ***(complete by 2/24)***
-* Module 2: lecture etc  ***(complete by 2/23)***
-* Module 2 Tips Tricks and Insights  ***include specific time estimates for module tasks***  **include date of last update***
+* ~~Module 2 Welcome video ***(complete by 2/24)***~~
+* ~~Module 2: lecture etc  ***(complete by 2/23)***~~
+* ~~Module 2 Tips Tricks and Insights  ***include specific time estimates for module tasks***  **include date of last update***~~
 * Module 3 Welcome video ***(complete by 2/24)***
 * Module 3: lecture etc  ***(complete by 2/23)***
 * Module 3 Tips Tricks and Insights ***include specific time estimates for module tasks***  **include date of last update***
@@ -42,16 +42,16 @@
 
 ### Module 2 : An Introduction to AI and Its History
 #### Completion date: 2/25/2024
- * Overview  **(video missing)**
- * Module video needed ***(last step)***
+ * ~~Overview  **(video missing)**~~
+ * ~~Module video needed ***(last step)***~~
  * ~~Module resources~~ **all set***
- * Module 2: Time Map  
- * Lectures:  **NEEDS Work**
-    * **video for AI501**
- * Tips tricks and insights **NEEDS WORK**
+ * ~~Module 2: Time Map~~  
+ * ~~Lectures:  **NEEDS Work**~~
+    * ~~**video for AI501**~~
+ * ~~Tips tricks and insights **NEEDS WORK**~~
  * ~~Reflection~~ **all set**
- * Quiz completed ***(COULD USE ADDITIONAL QUESTIONS)***
- * Cert upload assignment **NEEDS cert video**
+ * ~~Quiz completed~~ ***(COULD USE ADDITIONAL QUESTIONS)***
+ * ~~Cert upload assignment **NEEDS cert video**~~
 
 ### Module 3: AI in Industry
 #### Completion date:  2/25/2024
