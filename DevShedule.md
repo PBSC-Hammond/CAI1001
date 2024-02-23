@@ -3,16 +3,16 @@
 * ~~Module 1 Welcome video ***(complete by 2/24)***~~
 * ~~Module 1: lecture etc  ***(complete by 2/23)***~~
 * ~~Module 1: Time Map  ***(complete by 2/23)***~~
-* ~~Module 1 Tips Tricks and Insights  ***include specific time estimates for module tasks*** ***include date of last update***~~
+* ~~Module 1 Tips Tricks and Insights~~ 
 * ~~Module 2 Welcome video ***(complete by 2/24)***~~
 * ~~Module 2: lecture etc  ***(complete by 2/23)***~~
-* ~~Module 2 Tips Tricks and Insights  ***include specific time estimates for module tasks***  **include date of last update***~~
+* ~~Module 2 Tips Tricks and Insights~~  
 * Module 3 Welcome video ***(complete by 2/24)***
 * Module 3: lecture etc  ***(complete by 2/23)***
-* ~~Module 3 Tips Tricks and Insights ***include specific time estimates for module tasks***  **include date of last update***~~
+* ~~Module 3 Tips Tricks and Insights~~ 
 * Module 4 Welcome video  ***(complete by 2/24)***
 * Module 4: lecture etc  ***(complete by 2/23)***
-* ~~Module 4 Tips Tricks and Insights ***include specific time estimates for module tasks***  **include date of last update***~~
+* ~~Module 4 Tips Tricks and Insights~~ 
 
 ### Welcome Video (last step) 
 #### Completion date: May 1 2024
@@ -83,7 +83,7 @@
  *  Module 5: Time Map  
  *  Lectures:  **NEEDS WORK**
  *  Module resources **NEEDS WORK**
- *  Tips tricks and insights **NEEDS WORK**  ***include specific time estimates for module tasks***  **include date of last update***
+ *  Tips tricks and insights **NEEDS WORK**  
  * Discussion ***suggest additional discussion topics***
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
@@ -96,7 +96,7 @@
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
- *  Tips tricks and insights **NEEDS WORK**  ***include specific time estimates for module tasks***  **include date of last update***
+ *  Tips tricks and insights **NEEDS WORK**  
  * ~~Reflection~~ **all set** 
 
 
@@ -106,7 +106,7 @@
  * Module 7: Time Map  
  * Lectures:  **NEEDS WORK**
  * Module resources **NEEDS WORK**
- *  Tips tricks and insights **NEEDS WORK**  ***include specific time estimates for module tasks***  **include date of last update***
+ *  Tips tricks and insights **NEEDS WORK**  
  * Discussion ***suggest additional discussion topics***
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
