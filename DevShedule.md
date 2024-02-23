@@ -1,5 +1,5 @@
 ## Short term ToDo's
-* All Cert upload assignments **NEED cert video** ***(complete by 2/23)***
+* ~~All Cert upload assignments **NEED cert video** ***(complete by 2/23)***~~
 * Module 1 Welcome video ***(complete by 2/24)***
 * Module 1: lecture etc  ***(complete by 2/23)***
 * ~~Module 1 Tips Tricks and Insights  ***include specific time estimates for module tasks*** ***include date of last update***~~
@@ -18,7 +18,7 @@
  * on START HERE 1 - Welcome page
 
 ### Course Unknowns:
-* video walkthrough for cert upload
+* ~~video walkthrough for cert upload~~
 * Additional module specific discussion topics added to discussions
 * New images for Home page
 
