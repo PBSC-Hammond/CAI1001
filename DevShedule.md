@@ -2,6 +2,7 @@
 * ~~All Cert upload assignments **NEED cert video** ***(complete by 2/23)***~~
 * Module 1 Welcome video ***(complete by 2/24)***
 * Module 1: lecture etc  ***(complete by 2/23)***
+* ~~Module 1: Time Map  ***(complete by 2/23)***~~
 * ~~Module 1 Tips Tricks and Insights  ***include specific time estimates for module tasks*** ***include date of last update***~~
 * Module 2 Welcome video ***(complete by 2/24)***
 * Module 2: lecture etc  ***(complete by 2/23)***
@@ -29,6 +30,7 @@
  * Overview **(video missing)**
  * ~~Quiz~~ **completed**
  * Lectures:  **NEEDS videos**
+ * Module 1: Time Map  
  * Tips tricks and insights **NEEDS WORK**
  * ~~Module resources~~ **all set**
  * Discussion *all set* ***suggest additional discussion topics***
@@ -43,6 +45,7 @@
  * Overview  **(video missing)**
  * Module video needed ***(last step)***
  * ~~Module resources~~ **all set***
+ * Module 2: Time Map  
  * Lectures:  **NEEDS Work**
     * **video for AI501**
  * Tips tricks and insights **NEEDS WORK**
@@ -54,6 +57,7 @@
 #### Completion date:  2/25/2024
  *  Overview  **(video missing)**
  *  Module video needed ***(last step)***
+ *  Module 3: Time Map  
  *  Lectures:  **NEEDS Work**
  *  ~~Module resources~~ **all set**
  *  Tips tricks and insights **NEEDS WORK**
@@ -64,6 +68,7 @@
 ### Module 4: AI in the Enterprise
 #### Completion date: 2/25/2024
  *  Overview  **(video missing)**
+ *  Module 4: Time Map  
  *  Module video needed ***(last step)***
  *  Lectures:  **NEEDS Work**
  *  ~~Module resources~~ **all set**
@@ -75,6 +80,7 @@
  *
  *  Overview  **NEEDS WORK**
  *  Module video needed ***(last step)***
+ *  Module 5: Time Map  
  *  Lectures:  **NEEDS WORK**
  *  Module resources **NEEDS WORK**
  *  Tips tricks and insights **NEEDS WORK**  ***include specific time estimates for module tasks***  **include date of last update***
@@ -86,6 +92,7 @@
 ### Module 6: Data Collection and Enhancement
 #### Completion date:  3/10/2024
  *  Overview  **NEEDS WORK**
+ *  Module 6: Time Map  
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
@@ -96,6 +103,7 @@
 ### Module 7: Deep Learning
 #### Completion date: 3/17/2024
  * Module video needed ***(last step)***
+ * Module 7: Time Map  
  * Lectures:  **NEEDS WORK**
  * Module resources **NEEDS WORK**
  *  Tips tricks and insights **NEEDS WORK**  ***include specific time estimates for module tasks***  **include date of last update***
@@ -107,6 +115,7 @@
 ### Module 8: Hardware
 #### Completion date:  3/24/2024
  *  Overview  **NEEDS WORK**
+ *  Module 8: Time Map  
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
@@ -117,6 +126,7 @@
 ### Module 9: Software
 #### Completion date:  3/31/2024
  *  Overview  **NEEDS WORK**
+ *  Module 9: Time Map  
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
@@ -129,6 +139,7 @@
 ### Module 10: Latest Developments in AI
 #### Completion date:  4/7/2024
  *  Overview  **NEEDS WORK**
+ *  Module 10: Time Map  
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
@@ -141,6 +152,7 @@
 ### Module 11: Social, Moral, And Philosophical Implications of AI
 #### Completion date:  4/14/2024
  *  Overview  **NEEDS WORK**
+ *  Module 11: Time Map  
  *  Module video needed (last step)
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
