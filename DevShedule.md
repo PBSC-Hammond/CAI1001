@@ -26,17 +26,17 @@
 
 ### Module 1 Digital Literacy 
  #### Completion date: 2/25/2024
- * Module video needed ***(last step)***
- * Overview **(video missing)**
+ * ~~Module video needed ***(last step)***~~
+ * ~~Overview **(video missing)**~~
  * ~~Quiz~~ **completed**
- * Lectures:  **NEEDS videos**
- * Module 1: Time Map  
- * Tips tricks and insights **NEEDS WORK**
+ * ~~Lectures:  **completed**~~
+ * ~~Module 1: Time Map  **completed**~~
+ * ~~Tips tricks and insights **completed**~~
  * ~~Module resources~~ **all set**
- * Discussion *all set* ***suggest additional discussion topics***
+ * ~~Discussion *all set*~~ ***suggest additional discussion topics***
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set**
- * Cert upload assignment **NEEDS cert video**
+ * ~~Cert upload assignment **completed**~~
 
    
 
