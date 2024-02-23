@@ -15,7 +15,7 @@
 
 ### Welcome Video (last step) 
 #### Completion date: May 1 2024
- * 
+ * on START HERE 1 - Welcome page
 
 ### Course Unknowns:
 * video walkthrough for cert upload
