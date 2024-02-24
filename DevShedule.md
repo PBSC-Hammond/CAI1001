@@ -22,6 +22,8 @@
 * ~~video walkthrough for cert upload~~
 * Additional module specific discussion topics added to discussions
 * New images for Home page
+* ~~Course Time Map Start Here 2.5~~
+* New Question in Course contract about Course Time Map info **60 hours**
 
 
 ### Module 1 Digital Literacy 
@@ -38,7 +40,7 @@
  * ~~Reflection~~ **all set**
  * ~~Cert upload assignment **completed**~~
 
-   
+   $\color{red}{\textsf{lorem ipsum}}$
 
 ### Module 2 : An Introduction to AI and Its History
 #### Completion date: 2/25/2024
@@ -50,14 +52,14 @@
     * ~~**video for AI501**~~
  * ~~Tips tricks and insights **NEEDS WORK**~~
  * ~~Reflection~~ **all set**
- * ~~Quiz completed~~ ***(COULD USE ADDITIONAL QUESTIONS)***
+ * ~~Quiz completed~~ ***($\color{red}{\textsf{COULD USE ADDITIONAL QUESTIONS)}}$***
  * ~~Cert upload assignment **NEEDS cert video**~~
 
 ### Module 3: AI in Industry
 #### Completion date:  2/25/2024
  *  Overview  **(video missing)**
  *  Module video needed ***(last step)***
- *  Module 3: Time Map  
+ *  ~~Module 3: Time Map~~  
  *  Lectures:  **NEEDS Work**
  *  ~~Module resources~~ **all set**
  *  ~~Tips tricks and insights **NEEDS WORK**~~
@@ -68,7 +70,7 @@
 ### Module 4: AI in the Enterprise
 #### Completion date: 2/25/2024
  *  Overview  **(video missing)**
- *  Module 4: Time Map  
+ *  ~~Module 4: Time Map~~  
  *  Module video needed ***(last step)***
  *  Lectures:  **NEEDS Work**
  *  ~~Module resources~~ **all set**
@@ -80,7 +82,7 @@
  *
  *  Overview  **NEEDS WORK**
  *  Module video needed ***(last step)***
- *  Module 5: Time Map  
+ *  ~~Module 5: Time Map~~  
  *  Lectures:  **NEEDS WORK**
  *  Module resources **NEEDS WORK**
  *  Tips tricks and insights **NEEDS WORK**  
@@ -92,7 +94,7 @@
 ### Module 6: Data Collection and Enhancement
 #### Completion date:  3/10/2024
  *  Overview  **NEEDS WORK**
- *  Module 6: Time Map  
+ *  ~~Module 6: Time Map~~  
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
@@ -115,7 +117,7 @@
 ### Module 8: Hardware
 #### Completion date:  3/24/2024
  *  Overview  **NEEDS WORK**
- *  Module 8: Time Map  
+ *  ~~Module 8: Time Map~~  
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
@@ -126,7 +128,7 @@
 ### Module 9: Software
 #### Completion date:  3/31/2024
  *  Overview  **NEEDS WORK**
- *  Module 9: Time Map  
+ *  ~~Module 9: Time Map~~  
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
@@ -139,7 +141,7 @@
 ### Module 10: Latest Developments in AI
 #### Completion date:  4/7/2024
  *  Overview  **NEEDS WORK**
- *  Module 10: Time Map  
+ *  ~~Module 10: Time Map~~  
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
@@ -152,7 +154,7 @@
 ### Module 11: Social, Moral, And Philosophical Implications of AI
 #### Completion date:  4/14/2024
  *  Overview  **NEEDS WORK**
- *  Module 11: Time Map  
+ *  ~~Module 11: Time Map~~  
  *  Module video needed (last step)
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
