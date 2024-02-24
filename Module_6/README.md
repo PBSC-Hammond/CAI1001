@@ -15,10 +15,7 @@ The student will be able explore data sets by:
 * project using CodeFree Programming in Orange
 * Video needed
 
-## Weka Data-Mining *(Complete assignment)*
- * https://sourceforge.net/projects/weka/
- * project using Weka.
- * Video needed
+
    
 
 
