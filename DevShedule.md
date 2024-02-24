@@ -27,7 +27,7 @@
 
 
 ### Module 1 Digital Literacy 
- #### Completion date: $\color{red}{\textsf{2/23/2023 completed}}$
+ #### Completion date: $\color{red}{\textit{2/23/2023 completed}}$
  * ~~Module video needed ***(last step)***~~
  * ~~Overview **(video missing)**~~
  * ~~Quiz~~ **completed**
@@ -35,7 +35,7 @@
  * ~~Module 1: Time Map  **completed**~~
  * ~~Tips tricks and insights **completed**~~
  * ~~Module resources~~ **all set**
- * ~~Discussion *all set*~~ $\color{red}{\textsf{suggest additional discussion topics}}$
+ * ~~Discussion *all set*~~ $\color{red}{\textit{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set**
  * ~~Cert upload assignment **completed**~~
