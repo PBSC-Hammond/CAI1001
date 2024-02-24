@@ -35,12 +35,12 @@
  * ~~Module 1: Time Map  **completed**~~
  * ~~Tips tricks and insights **completed**~~
  * ~~Module resources~~ **all set**
- * ~~Discussion *all set*~~ ***suggest additional discussion topics***
+ * ~~Discussion *all set*~~ $\color{red}{\textsf{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set**
  * ~~Cert upload assignment **completed**~~
 
-   $\color{red}{\textsf{lorem ipsum}}$
+  
 
 ### Module 2 : An Introduction to AI and Its History
 #### Completion date: 2/25/2024
@@ -52,7 +52,7 @@
     * ~~**video for AI501**~~
  * ~~Tips tricks and insights **NEEDS WORK**~~
  * ~~Reflection~~ **all set**
- * ~~Quiz completed~~ ***($\color{red}{\textsf{COULD USE ADDITIONAL QUESTIONS)}}$***
+ * ~~Quiz completed~~  $\color{red}{\textsf{COULD USE ADDITIONAL QUESTIONS}}$
  * ~~Cert upload assignment **NEEDS cert video**~~
 
 ### Module 3: AI in Industry
@@ -63,7 +63,7 @@
  *  Lectures:  **NEEDS Work**
  *  ~~Module resources~~ **all set**
  *  ~~Tips tricks and insights **NEEDS WORK**~~
- * ~~Discussion~~ ***suggest additional discussion topics***
+ * ~~Discussion~~  $\color{red}{\textsf{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
 
@@ -86,7 +86,7 @@
  *  Lectures:  **NEEDS WORK**
  *  Module resources **NEEDS WORK**
  *  Tips tricks and insights **NEEDS WORK**  
- * Discussion ***suggest additional discussion topics***
+ * Discussion $\color{red}{\textsf{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
 
@@ -109,7 +109,7 @@
  * Lectures:  **NEEDS WORK**
  * Module resources **NEEDS WORK**
  *  Tips tricks and insights **NEEDS WORK**  
- * Discussion ***suggest additional discussion topics***
+ * Discussion $\color{red}{\textsf{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
 
@@ -133,7 +133,7 @@
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
  *  Tips tricks and insights **NEEDS WORK**  ***include specific time estimates for module tasks***  **include date of last update***
- * Discussion ***suggest additional discussion topics***
+ * Discussion $\color{red}{\textsf{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
 
@@ -146,7 +146,7 @@
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
  *  Tips tricks and insights **NEEDS WORK**  ***include specific time estimates for module tasks***  **include date of last update***
- * Discussion ***suggest additional discussion topics***
+ * Discussion $\color{red}{\textsf{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
 
@@ -159,6 +159,6 @@
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
  *  Tips tricks and insights NEEDS WORK  ***include specific time estimates for module tasks***  **include date of last update***
- * Discussion ***suggest additional discussion topics***
+ * Discussion $\color{red}{\textsf{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
