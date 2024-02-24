@@ -43,7 +43,7 @@
   
 
 ### Module 2 : An Introduction to AI and Its History
-#### Completion date: $\color{red}{\textsf{2/23/2023  completed}}$
+#### Completion date: $\color{red}{\textit{2/23/2023  completed}}$
  * ~~Overview  **(video missing)**~~
  * ~~Module video needed ***(last step)***~~
  * ~~Module resources~~ **all set***
@@ -52,7 +52,7 @@
     * ~~**video for AI501**~~
  * ~~Tips tricks and insights **NEEDS WORK**~~
  * ~~Reflection~~ **all set**
- * ~~Quiz completed~~  $\color{red}{\textsf{COULD USE ADDITIONAL QUESTIONS}}$
+ * ~~Quiz completed~~  $\color{red}{\textit{COULD USE ADDITIONAL QUESTIONS}}$
  * ~~Cert upload assignment **NEEDS cert video**~~
 
 ### Module 3: AI in Industry
@@ -63,7 +63,7 @@
  *  Lectures:  **NEEDS Work**
  *  ~~Module resources~~ **all set**
  *  ~~Tips tricks and insights **NEEDS WORK**~~
- * ~~Discussion~~  $\color{red}{\textsf{suggest additional discussion topics}}$
+ * ~~Discussion~~  $\color{red}{\textit{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
 
