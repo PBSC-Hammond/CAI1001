@@ -7,11 +7,11 @@
 * ~~Module 2 Welcome video ***(complete by 2/24)***~~
 * ~~Module 2: lecture etc  ***(complete by 2/23)***~~
 * ~~Module 2 Tips Tricks and Insights~~  
-* Module 3 Welcome video ***(complete by 2/24)***
-* Module 3: lecture etc  ***(complete by 2/23)***
+* ~~Module 3 Welcome video ***(complete by 2/24)***~~
+* ~~Module 3: lecture etc  ***(complete by 2/23)***~~
 * ~~Module 3 Tips Tricks and Insights~~ 
-* Module 4 Welcome video  ***(complete by 2/24)***
-* Module 4: lecture etc  ***(complete by 2/23)***
+* ~~Module 4 Welcome video  ***(complete by 2/24)***~~
+* ~~Module 4: lecture etc  ***(complete by 2/23)***~~
 * ~~Module 4 Tips Tricks and Insights~~ 
 
 ### Welcome Video (last step) 
@@ -56,11 +56,11 @@
  * ~~Cert upload assignment **NEEDS cert video**~~
 
 ### Module 3: AI in Industry
-#### Completion date:  2/25/2024
- *  Overview  **(video missing)**
- *  Module video needed ***(last step)***
+#### Completion date:  $\color{red}{\textit{2/24/2023  completed}}$
+ *  ~~Overview  **(video missing)**~~
+ *  ~~Module video needed ***(last step)***~~
  *  ~~Module 3: Time Map~~  
- *  Lectures:  **NEEDS Work**
+ *  ~~Lectures:  **NEEDS Work**~~
  *  ~~Module resources~~ **all set**
  *  ~~Tips tricks and insights **NEEDS WORK**~~
  * ~~Discussion~~  $\color{red}{\textit{suggest additional discussion topics}}$
@@ -68,11 +68,11 @@
  * ~~Reflection~~ **all set** 
 
 ### Module 4: AI in the Enterprise
-#### Completion date: 2/25/2024
- *  Overview  **(video missing)**
+#### Completion date: $\color{red}{\textit{2/23/2024  completed}}$
+ *  ~~Overview  **(video missing)**~~
  *  ~~Module 4: Time Map~~  
- *  Module video needed ***(last step)***
- *  Lectures:  **NEEDS Work**
+ *  ~~Module video needed ***(last step)***~~
+ *  ~~Lectures:  **NEEDS Work**~~
  *  ~~Module resources~~ **all set**
  *  ~~Tips tricks and insights **NEEDS WORK**~~
  * ~~Reflection~~ **all set** 
