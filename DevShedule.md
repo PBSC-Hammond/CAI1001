@@ -27,7 +27,7 @@
 
 
 ### Module 1 Digital Literacy 
- #### Completion date: 2/25/2024
+ #### Completion date: $\color{red}{\textsf{2/25/2023}}$
  * ~~Module video needed ***(last step)***~~
  * ~~Overview **(video missing)**~~
  * ~~Quiz~~ **completed**
@@ -43,7 +43,7 @@
   
 
 ### Module 2 : An Introduction to AI and Its History
-#### Completion date: 2/25/2024
+#### Completion date: $\color{red}{\textsf{2/25/2023}}$
  * ~~Overview  **(video missing)**~~
  * ~~Module video needed ***(last step)***~~
  * ~~Module resources~~ **all set***
