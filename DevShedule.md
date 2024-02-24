@@ -86,7 +86,7 @@
  *  Lectures:  **NEEDS WORK**
  *  Module resources **NEEDS WORK**
  *  Tips tricks and insights **NEEDS WORK**  
- * Discussion $\color{red}{\textsf{suggest additional discussion topics}}$
+ * Discussion $\color{red}{\textit{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
 
@@ -109,7 +109,7 @@
  * Lectures:  **NEEDS WORK**
  * Module resources **NEEDS WORK**
  *  Tips tricks and insights **NEEDS WORK**  
- * Discussion $\color{red}{\textsf{suggest additional discussion topics}}$
+ * Discussion $\color{red}{\textit{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
 
@@ -121,7 +121,7 @@
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
- *  Tips tricks and insights **NEEDS WORK**  ***include specific time estimates for module tasks***  **include date of last update***
+ *  Tips tricks and insights **NEEDS WORK** 
  * ~~Reflection~~ **all set** 
 
 
@@ -132,8 +132,8 @@
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
- *  Tips tricks and insights **NEEDS WORK**  ***include specific time estimates for module tasks***  **include date of last update***
- * Discussion $\color{red}{\textsf{suggest additional discussion topics}}$
+ *  Tips tricks and insights **NEEDS WORK**  
+ * Discussion $\color{red}{\textit{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
 
@@ -145,8 +145,8 @@
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
- *  Tips tricks and insights **NEEDS WORK**  ***include specific time estimates for module tasks***  **include date of last update***
- * Discussion $\color{red}{\textsf{suggest additional discussion topics}}$
+ *  Tips tricks and insights **NEEDS WORK**  
+ * Discussion $\color{red}{\textit{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
 
@@ -158,7 +158,7 @@
  *  Module video needed (last step)
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
- *  Tips tricks and insights NEEDS WORK  ***include specific time estimates for module tasks***  **include date of last update***
- * Discussion $\color{red}{\textsf{suggest additional discussion topics}}$
+ *  Tips tricks and insights NEEDS WORK  
+ * Discussion $\color{red}{\textit{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
