@@ -105,7 +105,7 @@
  *  Module video needed ***(last step)***
  *  ~~Module 5: Time Map~~  
  *  Lectures:  **NEEDS WORK**
- *  Module resources **NEEDS WORK**
+ *  ~~Module resources **NEEDS WORK**~~
  *  ~~Tips tricks and insights **NEEDS WORK**~~
  *  ~~Quiz completed~~  $\color{red}{\textit{COULD USE ADDITIONAL QUESTIONS}}$
  * ~~Discussion~~ $\color{red}{\textit{suggest additional discussion topics}}$
@@ -119,6 +119,10 @@
  *  ~~Module 6: Time Map~~  
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
+ *  Module 6: Programming in Orange (CodeFree) ***(complete by 3/10/2024)***
+   * Video walkthrough
+   * Rubric
+   * Instructions
  *  Lectures:  **NEEDS WORK**
  *  ~~Tips tricks and insights **NEEDS WORK**~~  
  * ~~Reflection~~ **all set** 
