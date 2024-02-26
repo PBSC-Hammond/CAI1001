@@ -21,7 +21,11 @@
 * Module 6: Module video needed ***(complete by 3/10/2024)***
 * Module 6:  Module resources ***(complete by 3/10/2024)***
 * Module 6:  Lectures:  ***(complete by 3/10/2024)***
-* Module 6:  Tips tricks and insights ***(complete by 3/10/2024)***  
+* Module 6: Programming in Orange (CodeFree) ***(complete by 3/10/2024)***
+  * Video walkthrough
+  * Rubric
+  * Instructions
+* ~~Module 6:  Tips tricks and insights ***(complete by 3/10/2024)***~~  
 
 ### Welcome Video (last step) 
 #### Completion date: May 1 2024
@@ -32,13 +36,14 @@
 * Additional module specific discussion topics added to discussions
 * New images for Home page
 * ~~Course Time Map Start Here 2.5~~
+* ~~Complete certs to know what the students will have to do~~
 * Review all Cert instructions for consistency
 * Paper Examples for formatting
 * Videos explaining papers
  * Module 4: Where we are as a society with AI (Paper)
  * Module 11: AI Ethics and Legal Issues Today (paper)
  * Module 8: Short Paper: Explain how Intel® hardware applies to AI
-* $\color{red}{\textit{New Question in Course contract about Course Time Map info}}$ **60 hours**
+* ~~$\color{red}{\textit{New Question in Course contract about Course Time Map info}}$ **60 hours**~~
 
 
 ### Module 1 Digital Literacy 
