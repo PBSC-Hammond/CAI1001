@@ -115,7 +115,7 @@
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
- *  Tips tricks and insights **NEEDS WORK**  
+ *  ~~Tips tricks and insights **NEEDS WORK**~~  
  * ~~Reflection~~ **all set** 
 
 
@@ -125,7 +125,7 @@
  * Module 7: Time Map  
  * Lectures:  **NEEDS WORK**
  * Module resources **NEEDS WORK**
- *  Tips tricks and insights **NEEDS WORK**  
+ *  ~~Tips tricks and insights **NEEDS WORK**~~  
  * Discussion $\color{red}{\textit{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
@@ -138,7 +138,7 @@
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
- *  Tips tricks and insights **NEEDS WORK** 
+ *  ~~Tips tricks and insights **NEEDS WORK**~~ 
  * ~~Reflection~~ **all set** 
 
 
@@ -149,7 +149,7 @@
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
- *  Tips tricks and insights **NEEDS WORK**  
+ *  ~~Tips tricks and insights **NEEDS WORK**~~  
  * Discussion $\color{red}{\textit{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
@@ -162,7 +162,7 @@
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
- *  Tips tricks and insights **NEEDS WORK**  
+ *  ~~Tips tricks and insights **NEEDS WORK**~~  
  * Discussion $\color{red}{\textit{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
@@ -175,7 +175,7 @@
  *  Module video needed (last step)
  *  Module resources **NEEDS WORK**
  *  Lectures:  **NEEDS WORK**
- *  Tips tricks and insights NEEDS WORK  
+ *  ~~Tips tricks and insights NEEDS WORK~~  
  * Discussion $\color{red}{\textit{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
