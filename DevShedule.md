@@ -34,6 +34,7 @@
 * Review all Cert instructions for consistency
 * Paper Examples for formatting
 * Videos explaining papers
+ * Module 4: Where we are as a society with AI (Paper)
  * Module 11: AI Ethics and Legal Issues Today (paper)
  * Module 8: Short Paper: Explain how Intel® hardware applies to AI
 * $\color{red}{\textit{New Question in Course contract about Course Time Map info}}$ **60 hours**
