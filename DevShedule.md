@@ -79,6 +79,7 @@
  *  ~~Tips tricks and insights **NEEDS WORK**~~
  * ~~Discussion~~  $\color{red}{\textit{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
+ *  ~~Quiz completed~~  $\color{red}{\textit{COULD USE ADDITIONAL QUESTIONS}}$
  * ~~Reflection~~ **all set** 
 
 ### Module 4: AI in the Enterprise
@@ -99,7 +100,8 @@
  *  ~~Module 5: Time Map~~  
  *  Lectures:  **NEEDS WORK**
  *  Module resources **NEEDS WORK**
- *  ~~Tips tricks and insights **NEEDS WORK**~~ 
+ *  ~~Tips tricks and insights **NEEDS WORK**~~
+ *  ~~Quiz completed~~  $\color{red}{\textit{COULD USE ADDITIONAL QUESTIONS}}$
  * ~~Discussion~~ $\color{red}{\textit{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
