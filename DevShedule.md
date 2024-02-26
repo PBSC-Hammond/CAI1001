@@ -3,7 +3,7 @@
 * ~~Module 1 Welcome video ***(complete by 2/24)***~~
 * ~~Module 1: lecture etc  ***(complete by 2/23)***~~
 * ~~Module 1: Time Map  ***(complete by 2/23)***~~
-* ~~Module 1 Tips Tricks and Insights~~ 
+* ~~Module 1 Tips Tricks and Insights***(complete by 2/23)***~~ 
 * ~~Module 2 Welcome video ***(complete by 2/24)***~~
 * ~~Module 2: lecture etc  ***(complete by 2/23)***~~
 * ~~Module 2 Tips Tricks and Insights~~  
