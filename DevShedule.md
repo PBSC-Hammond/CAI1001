@@ -19,7 +19,7 @@
 * Module 5: lecture etc  ***(complete by 3/3/2024)***
 * Module 6: Module video needed ***(complete by 3/10/2024)***
 * Module 6:  Module resources ***(complete by 3/10/2024)***
-* Module 6:  Lectures:  ***(complete by 3/10/2024)****
+* Module 6:  Lectures:  ***(complete by 3/10/2024)***
 * Module 6:  Tips tricks and insights ***(complete by 3/10/2024)***  
 
 ### Welcome Video (last step) 
@@ -31,6 +31,11 @@
 * Additional module specific discussion topics added to discussions
 * New images for Home page
 * ~~Course Time Map Start Here 2.5~~
+* Review all Cert instructions for consistency
+* Paper Examples for formatting
+* Videos explaining papers
+ * Module 11: AI Ethics and Legal Issues Today (paper)
+ * Module 8: Short Paper: Explain how Intel® hardware applies to AI
 * $\color{red}{\textit{New Question in Course contract about Course Time Map info}}$ **60 hours**
 
 
