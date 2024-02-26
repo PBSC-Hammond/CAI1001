@@ -31,7 +31,7 @@
 * Additional module specific discussion topics added to discussions
 * New images for Home page
 * ~~Course Time Map Start Here 2.5~~
-* New Question in Course contract about Course Time Map info **60 hours**
+* $\color{red}{\textit{New Question in Course contract about Course Time Map info}}$ **60 hours**
 
 
 ### Module 1 Digital Literacy 
