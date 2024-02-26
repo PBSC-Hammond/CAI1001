@@ -120,9 +120,9 @@
  *  Module video needed ***(last step)***
  *  Module resources **NEEDS WORK**
  *  Module 6: Programming in Orange (CodeFree) ***(complete by 3/10/2024)***
-   * Video walkthrough
-   * Rubric
-   * Instructions
+    * Video walkthrough
+    * Rubric
+    * Instructions
  *  Lectures:  **NEEDS WORK**
  *  ~~Tips tricks and insights **NEEDS WORK**~~  
  * ~~Reflection~~ **all set** 
