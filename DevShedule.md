@@ -15,7 +15,7 @@
 * ~~Module 4 Tips Tricks and Insights~~
 * There are **NOT** discussions in Every module, some discussions cover 2 modules.
 * Module 4: Where we are as a society with AI (Paper)
- * RUBRIC
+  * RUBRIC
 * Module 5: Welcome video  ***(complete by 3/3/2024)***
 * Module 5: lecture etc  ***(complete by 3/3/2024)***
 * Module 6: Module video needed ***(complete by 3/10/2024)***
