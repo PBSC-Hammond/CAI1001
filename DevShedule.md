@@ -12,7 +12,15 @@
 * ~~Module 3 Tips Tricks and Insights~~ 
 * ~~Module 4 Welcome video  ***(complete by 2/24)***~~
 * ~~Module 4: lecture etc  ***(complete by 2/23)***~~
-* ~~Module 4 Tips Tricks and Insights~~ 
+* ~~Module 4 Tips Tricks and Insights~~
+* Module 4: Where we are as a society with AI (Paper)
+ * RUBRIC
+* Module 5: Welcome video  ***(complete by 3/3/2024)***
+* Module 5: lecture etc  ***(complete by 3/3/2024)***
+* Module 6: Module video needed ***(complete by 3/10/2024)***
+* Module 6:  Module resources ***(complete by 3/10/2024)***
+* Module 6:  Lectures:  ***(complete by 3/10/2024)****
+* Module 6:  Tips tricks and insights ***(complete by 3/10/2024)***  
 
 ### Welcome Video (last step) 
 #### Completion date: May 1 2024
@@ -80,13 +88,13 @@
 ### Module 5: Supervised Learning
 #### Completion date:  3/3/2024
  *
- *  Overview  **NEEDS WORK**
+ *  ~~Overview  **NEEDS WORK**~~
  *  Module video needed ***(last step)***
  *  ~~Module 5: Time Map~~  
  *  Lectures:  **NEEDS WORK**
  *  Module resources **NEEDS WORK**
- *  Tips tricks and insights **NEEDS WORK**  
- * Discussion $\color{red}{\textit{suggest additional discussion topics}}$
+ *  ~~Tips tricks and insights **NEEDS WORK**~~ 
+ * ~~Discussion~~ $\color{red}{\textit{suggest additional discussion topics}}$
    * ~~Rubric~~ **all set**
  * ~~Reflection~~ **all set** 
 
